@@ -1,0 +1,20 @@
+[
+    {
+    "title": "Torta",
+    "price": 3000,
+    "thumbnail": "Clase_7/imagenes/torta.jpg",
+    "id": 1
+    },
+    {
+    "title": "Docena de medialunas",
+    "price": 1500,
+    "thumbnail": "Clase_7/imagenes/medialunas_de_manteca_74235_orig.jpg",
+    "id": 2
+    },
+    {
+    "title": "Sandwiches de miga, 1kg",
+    "price": 2000,
+    "thumbnail": "Clase_7/imagenes/sandwich-miga-jq.png",
+    "id": 3
+    }
+]
